@@ -1,13 +1,12 @@
 # 🌐 Olá, Mundo! Eu sou Mariana Catalani Gonçalves
 
-```text
-╭──────────────────────────────────────────────╮
-│  👩‍💻 Mariana Catalani Gonçalves                │
-│                                              |
-│ 🌐 Redes • 💻 Desenvolvimento • ⚡ Automação │
-│ 🤖 IA • 🔒 Segurança • 🚀 Aprendizado Contínuo│
-╰──────────────────────────────────────────────╯
-```
+[![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=mg04cat-pixel&theme=dracula)](https://github.com/vn7n2457m/github-profile-summary-cards)
+
+[![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mg04cat-pixel&theme=dracula)](https://github.com/vn7n2457m/github-profile-summary-cards)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mg04cat-pixel&background=0d1117&border=ff79c6&stroke=ff79c6&ring=50fa7b&fire=50fa7b&currStreakNum=50fa7b&sideNums=ff79c6&sideLabels=f8f8f2&dates=f8f8f2)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats-extended.vercel.app/api?username=mg04cat-pixel&show_icons=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&border_color=ff79c6)](https://github.com/stats-organization/github-stats-extended)
 
 ## ⚡ Sobre Mim
 

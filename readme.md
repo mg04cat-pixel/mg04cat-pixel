@@ -1,6 +1,6 @@
 <div align="center">
 
-# <Hello World> Aqui é Mariana Catalani Gonçalves!
+# <code><Hello World, Eu sou Mariana Catalani Gonçalves/></code>
 
 ### `Computer Science Student` • `Network Intern` • `Pre-Sales` • `Automation`
 

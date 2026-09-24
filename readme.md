@@ -33,7 +33,7 @@
 
 # GitHub Analytics
 
-<div align="center">
+<div>
   <a href="https://github.com/mg04cat-pixel">
     <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=mg04cat-pixel&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&border_color=ff79c6"/>
     <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mg04cat-pixel&layout=compact&langs_count=16&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&border_color=ff79c6"/>

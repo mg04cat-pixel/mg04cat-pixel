@@ -24,9 +24,9 @@ Sou estudante de **Ciência da Computação** e **Network Intern**, atuando em *
 
 `NETWORKS` ━━ `INFRASTRUCTURE` ━━ `AUTOMATION` ━━ `DEVELOPMENT`
 
-| 🌐 Redes | 📦 Inventário | 📝 Documentação | ⚙️ Automação | 🤖 IA |
+| 🌐 Redes | ❇️ Tecnologia | 📝 Documentação | ⚙️ Automação | 🤖 IA |
 | :---: | :---: | :---: | :---: | :---: |
-| Arquitetura & Infraestrutura | Refresh Tecnológico | Técnica | Processos | Aplicada à TI |
+| Arquitetura & Infraestrutura | Futuro | Técnica | Processos | Aplicada à TI |
 
 </div>
 
@@ -49,7 +49,7 @@ Atuo com arquitetura de redes, documentação técnica e soluções de infraestr
   <img src="https://img.shields.io/badge/Redes_%26_Infraestrutura-282a36?style=for-the-badge&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-282a36?style=for-the-badge&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/IA_Aplicada_%C3%A0_TI-282a36?style=for-the-badge&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Cybersecurity-282a36?style=for-the-badge&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Programação-282a36?style=for-the-badge&logoColor=ffffff" />
 </p>
 
 
@@ -125,7 +125,7 @@ Atuo com arquitetura de redes, documentação técnica e soluções de infraestr
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#282a36','primaryTextColor':'#f8f8f2','primaryBorderColor':'#ff79c6','lineColor':'#50fa7b','fontFamily':'monospace'}}}%%
 flowchart LR
-    A["🌐 REDE & INFRA<br/>Base sólida em Cisco"] --> B["🐍 AUTOMAÇÃO & PYTHON<br/>Scripts e otimização"]
+    A["🌐 REDE & INFRA<br/>Base em Cisco"] --> B["🐍 AUTOMAÇÃO & PYTHON<br/>Scripts e otimização"]
     B --> C["🏗️ SOLUÇÕES & ARQUITETURA<br/>Pré-vendas e projetos"]
     style A fill:#282a36,stroke:#ff79c6,stroke-width:2px,color:#f8f8f2
     style B fill:#282a36,stroke:#50fa7b,stroke-width:2px,color:#f8f8f2
@@ -136,7 +136,7 @@ flowchart LR
 
 <div align="center">
 
-**📫 Vamos conversar sobre redes, código e automação?**
+**📫Conecte-se Comigo!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=282a36)](https://www.linkedin.com/in/mariana-catalani-gon%C3%A7alves-605b74284/)
 [![Gmail](https://img.shields.io/badge/Gmail-50fa7b?style=for-the-badge&logo=gmail&logoColor=282a36)](mailto:mg04cat@gmail.com)

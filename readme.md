@@ -5,9 +5,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=50FA7B&center=true&vCenter=true&width=700&lines=%3CHello+World%2C+eu+sou+a+Mariana%2F%3E;Transformando+redes%2C+c%C3%B3digo+e+automa%C3%A7%C3%A3o;em+solu%C3%A7%C3%B5es+inteligentes+e+eficientes)](https://github.com/mg04cat-pixel)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mariana-catalani-gon%C3%A7alves-605b74284/)
-[![GitHub](https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/mg04cat-pixel)
-[![Gmail](https://img.shields.io/badge/Gmail-282a36?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:mg04cat@gmail.com)
+<a href="https://www.linkedin.com/in/mariana-catalani-gon%C3%A7alves-605b74284/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=282a36" alt="LinkedIn" />
+</a>
+
+<!-- Gmail -->
+<a href="mailto:mg04cat@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-50fa7b?style=for-the-badge&logo=gmail&logoColor=282a36" alt="Gmail" />
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/mg04cat-pixel" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+</a> 
+
 ![Visitas](https://komarev.com/ghpvc/?username=mg04cat-pixel&label=VISITAS&color=50fa7b&labelColor=282a36&style=for-the-badge)
 
 </div>
@@ -71,8 +82,7 @@ Atuo com arquitetura de redes, documentação técnica e soluções de infraestr
 <div align="center">
 
 <img width="361" height="150" src="https://github-readme-stats-salesp07.vercel.app/api?username=mg04cat-pixel&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b" />
-<img width="390" height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mg04cat-pixel&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2" />
-
+<img width="320" height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mg04cat-pixel&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2" />
 <img width="381" height="150" src="https://streak-stats.demolab.com/?user=mg04cat-pixel&theme=dracula&hide_border=true&background=282a36&ring=ff79c6&fire=ff79c6&currStreakLabel=50fa7b&currStreakNum=f8f8f2&sideNums=f8f8f2&sideLabels=50fa7b&dates=6272a4" />
 
 </div>
@@ -138,9 +148,22 @@ flowchart LR
 
 **📫Conecte-se Comigo!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=282a36)](https://www.linkedin.com/in/mariana-catalani-gon%C3%A7alves-605b74284/)
-[![Gmail](https://img.shields.io/badge/Gmail-50fa7b?style=for-the-badge&logo=gmail&logoColor=282a36)](mailto:mg04cat@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/mg04cat-pixel)
+<a href="https://www.linkedin.com/in/mariana-catalani-gon%C3%A7alves-605b74284/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=282a36" alt="LinkedIn" />
+</a>
+
+<!-- Gmail -->
+<a href="mailto:mg04cat@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-50fa7b?style=for-the-badge&logo=gmail&logoColor=282a36" alt="Gmail" />
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/mg04cat-pixel" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+</a>
+
+
+<br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:50fa7b,50:ff79c6,100:282a36&section=footer)
 

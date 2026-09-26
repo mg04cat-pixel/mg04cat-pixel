@@ -94,7 +94,7 @@ Atuo com arquitetura de redes, documentação técnica e soluções de infraestr
 
 | Projeto | Tecnologia | Descrição | Nível |
 | :---: | :---: | :---: | :---: |
-| [![Biblioteca dos Sonhos](https://img.shields.io/badge/BIBLIOTECA_DOS_SONHOS-282a36?style=for-the-badge&logo=python&logoColor=ffffff)](https://github.com/mg04cat-pixel) | ![Python](https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=ffffff) | Biblioteca simples voltada para organização e gerenciamento de acervo. | ![Iniciante](https://img.shields.io/badge/N%C3%ADvel-Iniciante-50fa7b?style=flat-square&labelColor=282a36) |
+| [![Biblioteca dos Sonhos](https://img.shields.io/badge/BIBLIOTECA_DOS_SONHOS-282a36?style=for-the-badge&logo=python&logoColor=ffffff)](https://github.com/mg04cat-pixel/Projetos.git) | ![Python](https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=ffffff) | Biblioteca simples voltada para organização e gerenciamento de acervo. | ![Iniciante](https://img.shields.io/badge/N%C3%ADvel-Iniciante-50fa7b?style=flat-square&labelColor=282a36) |
 | [![Refresh Tecnológico](https://img.shields.io/badge/REFRESH_TECNOL%C3%93GICO-282a36?style=for-the-badge&logo=openai&logoColor=ffffff)](https://github.com/mg04cat-pixel) | ![Python](https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=ffffff) ![IA](https://img.shields.io/badge/IA-282a36?style=flat-square&logo=openai&logoColor=ffffff) | 🚧 Em desenvolvimento: otimização e automação de rotinas de serviço. | ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-ff79c6?style=flat-square&labelColor=282a36) |
 
 </div>

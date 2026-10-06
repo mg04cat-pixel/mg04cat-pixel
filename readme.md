@@ -82,7 +82,7 @@ Atuo com arquitetura de redes, documentação técnica e soluções de infraestr
 <div align="center">
 
 <img width="361" height="150" src="https://github-readme-stats-salesp07.vercel.app/api?username=mg04cat-pixel&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b" />
-<img width="320" height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mg04cat-pixel&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2" />
+<img width="270" height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mg04cat-pixel&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2" />
 <img width="381" height="150" src="https://streak-stats.demolab.com/?user=mg04cat-pixel&theme=dracula&hide_border=true&background=282a36&ring=ff79c6&fire=ff79c6&currStreakLabel=50fa7b&currStreakNum=f8f8f2&sideNums=f8f8f2&sideLabels=50fa7b&dates=6272a4" />
 
 </div>
@@ -95,7 +95,7 @@ Atuo com arquitetura de redes, documentação técnica e soluções de infraestr
 | Projeto | Tecnologia | Descrição | Nível |
 | :---: | :---: | :---: | :---: |
 | [![Biblioteca dos Sonhos](https://img.shields.io/badge/BIBLIOTECA_DOS_SONHOS-282a36?style=for-the-badge&logo=python&logoColor=ffffff)](https://github.com/mg04cat-pixel/Projetos.git) | ![Python](https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=ffffff) | Biblioteca simples voltada para organização e gerenciamento de acervo. | ![Iniciante](https://img.shields.io/badge/N%C3%ADvel-Iniciante-50fa7b?style=flat-square&labelColor=282a36) |
-| [![Site Completo HTML](https://img.shields.io/badge/SITE_COMPLETO-282a36?style=for-the-badge&logo=openai&logoColor=ffffff)](https://github.com/mg04cat-pixel) | ![HTML5](https://img.shields.io/badge/HTML5-282a36?style=flat-square&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/CSS3-282a36?style=flat-square&logo=openai&logoColor=ffffff) ![Java Script](https://img.shields.io/badge/JS-282a36?style=flat-square&logo=openai&logoColor=ffffff) | 🚧 Em desenvolvimento - Confira no repositório ![Curso_HTML_CSS](https://github.com/mg04cat-pixel/Curso_HTML_CSS_JavaScript) | ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-ff79c6?style=flat-square&labelColor=282a36) |
+| [![Site Completo HTML](https://img.shields.io/badge/SITE_COMPLETO-282a36?style=for-the-badge&logo=openai&logoColor=ffffff)](https://github.com/mg04cat-pixel) | ![HTML5](https://img.shields.io/badge/HTML5-282a36?style=flat-square&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/CSS3-282a36?style=flat-square&logo=openai&logoColor=ffffff) ![Java Script](https://img.shields.io/badge/JS-282a36?style=flat-square&logo=openai&logoColor=ffffff) | 🚧 Em desenvolvimento - Confira no repositório ![Curso_HTML_CSS](https://github.com/mg04cat-pixel/Curso_HTML_CSS_JavaScript](https://github.com/mg04cat-pixel/Projeto_Site_Completo)) | ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-ff79c6?style=flat-square&labelColor=282a36) |
 
 </div>
 
